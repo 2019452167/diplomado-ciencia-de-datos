@@ -1,0 +1,1 @@
+Descripción general del proyecto y cómo ejecutarlo.
