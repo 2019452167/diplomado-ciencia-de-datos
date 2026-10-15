@@ -8,4 +8,4 @@ __pycache__/
 .vscode/
 
 # Datos pesados locales (los datos se descargan o se documentan, no se suben al repo si pesan mucho)
-*.csv
+# TODO Hacer mas selectivo el directorio para los arachivos CSV
