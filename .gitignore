@@ -8,4 +8,4 @@ __pycache__/
 .vscode/
 
 # Datos pesados locales (los datos se descargan o se documentan, no se suben al repo si pesan mucho)
-data/*.csv
+*.csv
