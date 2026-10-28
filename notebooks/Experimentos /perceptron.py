@@ -70,7 +70,7 @@ X = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
 
 # 1. Compuerta AND (Converge con éxito)
 y_and = np.array([0, 0, 0, 1])
-perceptron_and = PerceptronVisual(learning_rate=0.2, epochs=8)
+perceptron_and = PerceptronVisual(learning_rate=0.2, epochs=100)
 print("Ejecutando visualización para COMPUERTA AND...")
 perceptron_and.train_and_plot(X, y_and, "Compuerta AND (Linealmente Separable)")
 
